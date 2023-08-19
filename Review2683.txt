@@ -1,0 +1,20 @@
+Reviewer 12 of MWSCAS 2023 submission 8
+
+Comments to the author
+======================
+
+Paper provides a macro-placement methodology for faster
+manual physical design for designs with a large number of
+macros. Author has provided a description of the steps
+taken for the physical design of an AI processor and the
+corresponding area and power improvements. 
+
+To make the paper more useful for the readers, it would be
+beneficial for the author to first clearly state the
+generalized algorithm (generalized steps proposed for
+improving the manual physical design), and then describe
+how the algorithm/steps were applied to physical design of
+the specific AI processor. At the moment it's relatively
+difficult for a reader to clearly extract the steps that
+he/she should infer and apply to his/her own physical
+design.

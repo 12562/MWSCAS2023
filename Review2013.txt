@@ -1,0 +1,14 @@
+Reviewer 9 of MWSCAS 2023 submission 8
+
+Comments to the author
+======================
+
+This paper is good, but it cannot be recommended for
+publication in its current from. There are some important
+points that must be added first to revise this research.
+1-	The overall description seems to be at the
+introductory level without any theoretical verification.
+2-	Compare your method with other approved and
+innovative methods
+3-	In conclusion: some text must be added to discuss
+future work or research opportunities.
